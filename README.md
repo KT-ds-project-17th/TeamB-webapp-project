@@ -37,8 +37,8 @@
 관리자가 회원, 과정 등에 대하여 CRUD 기능을 시행할 수 있는 '<b>어드민</b> 페이지' 개발, <br>
 크게 두 부분으로 나누어 진행하였습니다.
 
-* '유저' 레포지토리 <a href="https://github.com/choyinoom/ktdsuniversity_webapp_user"> 바로가기</a>
-* '어드민' 레포지토리<a href="https://github.com/choyinoom/ktdsuniversity_webapp_admin"> 바로가기</a> 
+* '유저' 레포지토리 <a href="https://github.com/choyinoom/ktdsuniversity17_webapp_user"> 바로가기</a>
+* '어드민' 레포지토리<a href="https://github.com/choyinoom/ktdsuniversity17_webapp_admin"> 바로가기</a> 
 
 ## Contributors
   <a href="https://github.com/2Hyung5"><img src="https://avatars.githubusercontent.com/u/81209001?s=96&amp;v=4" width="48" height="48" alt="@2Hyung5"></a>
