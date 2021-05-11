@@ -11,7 +11,7 @@
   <br>
   <br>
   <a href="http://edu.ktdsuniversity.com">기존 페이지 바로가기</a><br>
-  <a href="http://3.128.124.87:8094/edu"><strong>리뉴얼한 페이지 바로가기</strong></a>
+  <a href="http://52.204.73.239:8094/edu"><strong>리뉴얼한 페이지 바로가기</strong></a>
   <br>
   <br>
 </p>
@@ -21,16 +21,17 @@
   <img src="https://img.shields.io/badge/Java-1.8-red" alt="Java"/>&nbsp;
   <img src="https://img.shields.io/badge/Spring-mvc-green" alt="Spring"/>&nbsp;
   <img src="https://img.shields.io/badge/Oracle-11g-be4534" alt="Oracle"/>&nbsp;
-  <img src="https://img.shields.io/badge/Tomcat-8-f8dc75" alt="Tomcat"/>&nbsp;
+  <img src="https://img.shields.io/badge/Tomcat-9-f8dc75" alt="Tomcat"/>&nbsp;
 </p>
-
+<p align="center">
+  Migrated to <img src="https://img.shields.io/badge/PostgreSQL-12-008ebc" alt="PostgreSQL"/>, thanks to <a href="https://github.com/darold/ora2pg">Ora2Pg</a>
+</p>
 <hr>
 
 ## Documentation
 * <a href="https://drive.google.com/file/d/1wTHOvn6jS_enTrKyqEVGvNKfBVZIyl9q/view?usp=sharing">이 프로젝트는 어떤 프로젝트인가요?</a>
 * 데이터베이스는 어떻게 구성했나요?
   * <a href="https://drive.google.com/file/d/1xzRMHBGvpC558Yht8oI0fdPHMztyjr7s/view?usp=sharing">ERD</a>
-  * <a href="https://drive.google.com/file/d/12pxoTYMZHHqO5EnqKg-2eFXnZCJn8pmc/view?usp=sharing">Data Modeler 보고서</a>
 
 ## Repositories
 이 프로젝트는 재직자와 채용예정자가 회원가입을 하고 과정 수강 신청을 할 수 있는 '<b>유저</b> 페이지' 개발과 <br>
