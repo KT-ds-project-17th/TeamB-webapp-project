@@ -11,7 +11,7 @@
   <br>
   <br>
   <a href="http://edu.ktdsuniversity.com">기존 페이지 바로가기</a><br>
-  <a href="http://52.204.73.239:8094/edu"><strong>리뉴얼한 페이지 바로가기</strong></a>
+  <a href="http://52.204.73.239/edu"><strong>리뉴얼한 페이지 바로가기</strong></a>
   <br>
   <br>
 </p>
